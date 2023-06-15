@@ -25,7 +25,7 @@ You can check if your passwords have been previously exposed in data breaches !
 
 ```bash
 git clone https://github.com/sercanradulfr/Gud-Baldr-Password-Checker.git
-cd Gud-Baldr-Strong-Password-Generator
+cd Gud-Baldr-Password-Checker
 pip3 install pyfiglet
 python3 main.py
 ```
